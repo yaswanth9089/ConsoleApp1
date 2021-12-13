@@ -9,7 +9,9 @@ namespace ConsoleApp1
             Console.WriteLine("Message by Reddy");
             Console.WriteLine("Message by Reddy100");
 
-            Console.WriteLine("Hi how are u);
+            Console.WriteLine("Hi how are u");
+            Console.WriteLine("Hi how are reddy");
+
         }
     }
 }
